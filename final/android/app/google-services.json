@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124721597369",
+    "project_id": "hypergaragesale-a643d",
+    "storage_bucket": "hypergaragesale-a643d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124721597369:android:f2eaab8f93be6f9c67c468",
+        "android_client_info": {
+          "package_name": "com.hypergaragesale.start"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TUkdEtNbJqbKiaB14w71IOhUoZQRzgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
